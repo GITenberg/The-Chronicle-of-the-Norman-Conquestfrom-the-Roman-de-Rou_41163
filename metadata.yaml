@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3548
     wikipedia: http://en.wikipedia.org/wiki/Wace
 description: Illustrated and annotated by the translator.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41163#The-Chronicle-of-the-Norman-Conquestfrom-the-Roman-de-Rou
 gutenberg_issued: '2012-10-24'
 gutenberg_type: Text
 identifiers:
