@@ -1,0 +1,39 @@
+_repo: The-Chronicle-of-the-Norman-Conquestfrom-the-Roman-de-Rou_41163
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Taylor, Edgar
+    alias: Denton, H. B.
+    birthdate: 1793
+    deathdate: 1839
+    gutenberg_agent_id: '41014'
+    url: http://www.gutenberg.org/2009/agents/41014
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wace
+    aliases:
+    - Wace, Robert
+    - Wace, Master
+    - Wacius, Robert
+    - Wace, Maistre
+    gutenberg_agent_id: '3548'
+    url: http://www.gutenberg.org/2009/agents/3548
+    wikipedia: http://en.wikipedia.org/wiki/Wace
+description: Illustrated and annotated by the translator.
+gutenberg_issued: '2012-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41163'
+  lccn: '02020602'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- William I, 1066-1087'
+title: Master Wace, His Chronicle of the Norman Conquest From the Roman De Rou
+url: http://www.gutenberg.org/ebooks/41163
